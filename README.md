@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hello, my name is Tomás Puricelli
 
-<!--
-**tomasp1189/tomasp1189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Tomás Puricelli Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomaspuricelli/)
+[![Tomás Puricelli Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tomaspuricelli)
+[![Tomás Puricelli Website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://tomaspuricelli.com)
 
-Here are some ideas to get you started:
+Versatile and introspective software engineer with a passion for exploring the intersection of analytical thinking and creative problem-solving. Embracing challenges with a growth mindset, I thrive in dynamic environments and bring a unique blend of analytical acumen and imaginative thinking to drive innovative solutions. Committed to continuous learning and personal growth, I am dedicated to delivering high-quality results while fostering collaborative relationships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on On-Chain Automation with a wonderful group of human beings [@Boto.io](https://github.com/botoapp).
+- 🌱 I’m currently learning about the Smart Contract Auditing process and more in-depth testing (fuzz and invariant).
+
+<br><br/>
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=tomasp1189&show_icons=true&theme=dark&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=tomasp1189&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=tomasp1189&show_icons=true&count_private=true" />
+</picture>
+<br></br>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</picture>
