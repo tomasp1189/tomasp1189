@@ -7,7 +7,7 @@
 Versatile and introspective software engineer with a passion for exploring the intersection of analytical thinking and creative problem-solving. Embracing challenges with a growth mindset, I thrive in dynamic environments and bring a unique blend of analytical acumen and imaginative thinking to drive innovative solutions. Committed to continuous learning and personal growth, I am dedicated to delivering high-quality results while fostering collaborative relationships.
 
 - 🔭 I’m currently working on On-Chain Automation with a wonderful group of human beings [@Boto.io](https://github.com/botoapp).
-- 🌱 I’m currently learning about the Smart Contract Auditing process and more in-depth testing (fuzz and invariant).
+
 
 <br><br/>
 
