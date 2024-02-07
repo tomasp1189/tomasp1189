@@ -10,19 +10,6 @@ Versatile and introspective software engineer with a passion for exploring the i
 
 
 <br><br/>
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=tomasp1189&show_icons=true&theme=dark&count_private=true&include_all_commits=true&rank_icon=github"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=tomasp1189&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=tomasp1189&show_icons=true&count_private=true" />
-</picture>
-<br></br>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasp1189&layout=compact&theme=dark"
